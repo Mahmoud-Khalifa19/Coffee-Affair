@@ -1,0 +1,19 @@
+body{
+    background-color: #B5B2C2;
+    font-family: 'Lato', sans-serif;
+}
+li{
+    list-style: none;
+}
+
+.header{
+    height: 90px;
+    color: #fff;
+    background-color: #B5B2C2;
+}
+
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
